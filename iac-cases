@@ -1,0 +1,18 @@
+  Modules for K8S cluster
+  # module.k8s-1.module.esi-system.helm_release.instance["metrics-server"] will be created
+  # module.k8s-1.module.esi-system.kubernetes_secret.oci-cli-config will be created
+  # module.k8s-1.module.esi-system.kubernetes_storage_class.esi-standard will be created
+  # module.k8s-1.module.ingressgateway-infra-1.helm_release.instance will be created
+  # module.k8s-1.module.ingressgateway-private-1.helm_release.instance will be created
+  # module.k8s-1.module.ingressgateway-private-2.helm_release.instance will be created
+  # module.k8s-1.module.ingressgateway-private-3.helm_release.instance will be created
+  # module.k8s-1.module.istio.helm_release.istio-base will be created
+  # module.k8s-1.module.istio.helm_release.istio-control will be created
+  # module.k8s-1.module.sumologic.helm_release.sumologic will be created
+  # module.k8s-1.module.sumologic.kubernetes_namespace.sumologic will be created
+  # module.k8s-1.module.esi-system.module.namespace.kubernetes_namespace.instance will be created
+  # module.k8s-1.module.esi-system.module.namespace.kubernetes_secret.docker-registry-ocir will be created
+  # module.k8s-1.module.ingressgateway-private-1.module.shared-gateway-1.helm_release.instance will be created
+  # module.k8s-1.module.ingressgateway-private-2.module.shared-gateway-1.helm_release.instance will be created
+  # module.k8s-1.module.istio.module.namespace.kubernetes_namespace.instance will be created
+  # module.k8s-1.module.istio.module.namespace.kubernetes_secret.docker-registry-ocir will be created
